@@ -1,4 +1,6 @@
-# vue-cli
+# UserCRM
+
+## This is a course project
 
 ## Project setup
 ```
